@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-lektion1/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-lektion1/static/js/main.55a1fca9.chunk.js",
+    "main.js.map": "/react-lektion1/static/js/main.55a1fca9.chunk.js.map",
+    "runtime-main.js": "/react-lektion1/static/js/runtime-main.3117a6d8.js",
+    "runtime-main.js.map": "/react-lektion1/static/js/runtime-main.3117a6d8.js.map",
+    "static/js/2.a3c02120.chunk.js": "/react-lektion1/static/js/2.a3c02120.chunk.js",
+    "static/js/2.a3c02120.chunk.js.map": "/react-lektion1/static/js/2.a3c02120.chunk.js.map",
+    "static/js/3.1bf58429.chunk.js": "/react-lektion1/static/js/3.1bf58429.chunk.js",
+    "static/js/3.1bf58429.chunk.js.map": "/react-lektion1/static/js/3.1bf58429.chunk.js.map",
+    "index.html": "/react-lektion1/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/react-lektion1/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a3c02120.chunk.js.LICENSE.txt": "/react-lektion1/static/js/2.a3c02120.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-lektion1/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3117a6d8.js",
+    "static/js/2.a3c02120.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.55a1fca9.chunk.js"
+  ]
+}
