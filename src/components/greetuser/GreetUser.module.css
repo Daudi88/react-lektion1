@@ -1,0 +1,12 @@
+.greetuser {
+    background-color: pink;
+    padding: 2em;
+}
+
+.user__header {
+    cursor: pointer;
+}
+
+.error {
+    color: red;
+}
